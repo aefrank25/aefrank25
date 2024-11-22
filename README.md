@@ -41,7 +41,7 @@ I’m currently learning:
 ### 📫 How to Reach Me
 
 - **Email**: [amyfrank@asu.edu](mailto:amyfrank@asu.edu)  
-- **LinkedIn**: [linkedin.com/in/amy-e-f94](https://www.linkedin.com/in/amy-e-f94/))
+- **LinkedIn**: [linkedin.com/in/amy-e-f94](https://www.linkedin.com/in/amy-e-f94/)
 
 ### 😄 Pronouns
 
