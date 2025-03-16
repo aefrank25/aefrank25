@@ -27,7 +27,7 @@ I’m currently learning:
 
 ### 📚 Education
 
-- **M.S. in Information Systems**, University of Colorado Denver (Graduating December 2025)  
+- **M.S. in Information Systems**, University of Colorado Denver (Expected Graduation May 2026)  
 - **B.S. in Psychology**, Arizona State University  
 - **B.S. in Biological Sciences**, Arizona State University
   
