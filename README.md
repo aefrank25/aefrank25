@@ -26,7 +26,7 @@ I’m currently building expertise in:
 - **Optimizing workflows and decision-making** through data-driven insights  
 
 ## 📚 **Education**  
-- **M.S. in Information Systems**, University of Colorado Denver *(Graduating May 2026)*  
+- **M.S. in Information Systems**, University of Colorado Denver *(Expected Graduation May 2026)*  
 - **B.S. in Psychology**, Arizona State University  
 - **B.S. in Biological Sciences**, Arizona State University  
 
