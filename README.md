@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Amy Frank (@aefrank25).
 
-I’m a **Master’s student in Business Analytics** at Arizona State University, specializing in **Cloud Computing and Tech Consulting**.
+I’m a **Master’s student in Information Systems** at University of Colorado Denver.
 My background in psychology and biological sciences gives me a unique perspective in applying analytics to solve complex challenges.
 
 ### 👀 Interests
@@ -27,7 +27,7 @@ I’m currently learning:
 
 ### 📚 Education
 
-- **M.S. in Business Analytics**, Arizona State University (Specializing in Cloud Computing and Tech Consulting, Graduating December 2025)  
+- **M.S. in Information Systems**, University of Colorado Denver (Graduating December 2025)  
 - **B.S. in Psychology**, Arizona State University  
 - **B.S. in Biological Sciences**, Arizona State University
   
