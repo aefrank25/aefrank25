@@ -54,6 +54,7 @@ I’m currently building projects related to workflow analysis, operational tool
 - Salesforce Trailhead Triple Star Ranger
 - Google Data Analytics Professional Certificate
 - Google Project Management Professional Certificate
+- ISACA Student Mentee, 2026
 
 ## 📫 **How to Reach Me**  
 📧 **Email:** [amy.frank@ucdenver.edu](mailto:amy.frank@ucdenver.edu)  
